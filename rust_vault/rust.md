@@ -1,5 +1,5 @@
 ## Book
-1. [[basics]]
+1. [[01_chapter]]
 ## Visuals
 1. [[rust_diagram.drawio]]
 2. [[rust_mindmap.xmind]]
