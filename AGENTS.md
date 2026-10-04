@@ -17,3 +17,14 @@ This repository is for learning Rust through The Rust Programming Language book 
 - Pay particular attention to ownership, borrowing, lifetimes, memory layout, traits, error handling, and concurrency.
 - Run `cargo fmt` and `cargo check` after modifying Cargo projects.
 - Keep notes concise and technical.
+
+## Communication
+
+- Be concise and direct.
+- No preamble, narration, or recap unless necessary.
+- Do not restate my request.
+- Do not explain routine tool calls or obvious code changes.
+- For simple tasks, respond in 1-3 sentences.
+- For larger tasks, report only: result, important decisions, and blockers.
+- Show code/diffs instead of describing them when that is clearer.
+- Explain in depth only when I ask for explanation or when it is necessary for learning.
